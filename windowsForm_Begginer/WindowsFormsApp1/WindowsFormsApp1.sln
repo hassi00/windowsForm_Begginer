@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "Windows
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotepadApp", "NotepadApp\NotepadApp.csproj", "{C75C4BE5-8541-4088-B69B-4306E20C7D15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList", "ToDoList\ToDoList.csproj", "{EA31D682-ACD1-4FD8-94E9-954338E99FC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingApp", "DrawingApp\DrawingApp.csproj", "{4F64F0E3-4583-4894-981D-36A813C1E250}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{C75C4BE5-8541-4088-B69B-4306E20C7D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C75C4BE5-8541-4088-B69B-4306E20C7D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C75C4BE5-8541-4088-B69B-4306E20C7D15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA31D682-ACD1-4FD8-94E9-954338E99FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA31D682-ACD1-4FD8-94E9-954338E99FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA31D682-ACD1-4FD8-94E9-954338E99FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA31D682-ACD1-4FD8-94E9-954338E99FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F64F0E3-4583-4894-981D-36A813C1E250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F64F0E3-4583-4894-981D-36A813C1E250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F64F0E3-4583-4894-981D-36A813C1E250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F64F0E3-4583-4894-981D-36A813C1E250}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
