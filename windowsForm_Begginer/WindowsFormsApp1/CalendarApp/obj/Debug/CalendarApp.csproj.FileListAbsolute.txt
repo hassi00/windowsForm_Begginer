@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Udemy\source\windowsForm_Begginer\WindowsFormsApp1\CalendarApp\bin\Debug\CalendarApp.exe.config
+C:\Users\user\Documents\Udemy\source\windowsForm_Begginer\WindowsFormsApp1\CalendarApp\bin\Debug\CalendarApp.exe
+C:\Users\user\Documents\Udemy\source\windowsForm_Begginer\WindowsFormsApp1\CalendarApp\bin\Debug\CalendarApp.pdb
+C:\Users\user\Documents\Udemy\source\windowsForm_Begginer\WindowsFormsApp1\CalendarApp\obj\Debug\CalendarApp.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Udemy\source\windowsForm_Begginer\WindowsFormsApp1\CalendarApp\obj\Debug\CalendarApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\Udemy\source\windowsForm_Begginer\WindowsFormsApp1\CalendarApp\obj\Debug\CalendarApp.Form1.resources
+C:\Users\user\Documents\Udemy\source\windowsForm_Begginer\WindowsFormsApp1\CalendarApp\obj\Debug\CalendarApp.Properties.Resources.resources
+C:\Users\user\Documents\Udemy\source\windowsForm_Begginer\WindowsFormsApp1\CalendarApp\obj\Debug\CalendarApp.csproj.GenerateResource.cache
+C:\Users\user\Documents\Udemy\source\windowsForm_Begginer\WindowsFormsApp1\CalendarApp\obj\Debug\CalendarApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Udemy\source\windowsForm_Begginer\WindowsFormsApp1\CalendarApp\obj\Debug\CalendarApp.exe
+C:\Users\user\Documents\Udemy\source\windowsForm_Begginer\WindowsFormsApp1\CalendarApp\obj\Debug\CalendarApp.pdb
